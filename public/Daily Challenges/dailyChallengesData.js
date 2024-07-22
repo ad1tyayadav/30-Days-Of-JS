@@ -67,7 +67,7 @@ export const challengeData = [
         day: 10,
         topic: "Event Handling",
         image: "/Images/Day10.png",
-        gitrepo: "https://github.com/ad1tyayadav/30-days-javascript-challenge"
+        gitrepo: "https://github.com/ad1tyayadav/30-days-javascript-challenge/tree/main/10%20-%20Event%20Handling"
     },
     // {
     //     id: 11,
