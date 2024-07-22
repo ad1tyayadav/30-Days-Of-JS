@@ -65,7 +65,7 @@ export const challengeData = [
     {
         id: 10,
         day: 10,
-        topic: "Promises and Async/Await",
+        topic: "Event Handling",
         image: "/Images/Day10.png",
         gitrepo: "https://github.com/ad1tyayadav/30-days-javascript-challenge"
     },
