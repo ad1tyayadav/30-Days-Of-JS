@@ -61,13 +61,14 @@ export const challengeData = [
         topic: "DOM Manipulation",
         image: "/Images/Day9.png",
         gitrepo: "https://github.com/ad1tyayadav/30-days-javascript-challenge/tree/main/9%20-%20DOM%20Manipulation"
-    }
-    // {
-    //     id: 10,
-    //     day: 10,
-    //     topic: "Promises and Async/Await",
-    //     image: "https://plus.unsplash.com/premium_photo-1664412117301-d0d9e3cfe1d1?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-    // },
+    },
+    {
+        id: 10,
+        day: 10,
+        topic: "Promises and Async/Await",
+        image: "/Images/Day10.png",
+        gitrepo: "https://github.com/ad1tyayadav/30-days-javascript-challenge"
+    },
     // {
     //     id: 11,
     //     day: 11,
