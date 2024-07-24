@@ -74,7 +74,7 @@ export const challengeData = [
         day: 11,
         topic: "Promises And Async:Await",
         image: "/Images/Day11.png",
-        gitrepo: "https://github.com/ad1tyayadav/30-days-javascript-challenge/tree/main"
+        gitrepo: "https://github.com/ad1tyayadav/30-days-javascript-challenge/tree/main/11%20-%20Promises%20and%20Async%20Await"
     },
     {
         id: 12,
