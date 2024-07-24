@@ -80,7 +80,8 @@ export const challengeData = [
         id: 12,
         day: 12,
         topic: "Error Handling",
-        image: "/Images/Day12.png"
+        image: "/Images/Day12.png",
+         gitrepo: "https://github.com/ad1tyayadav/30-days-javascript-challenge/tree/main"
     },
     // {
     //     id: 13,
