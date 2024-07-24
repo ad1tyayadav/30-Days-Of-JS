@@ -76,12 +76,12 @@ export const challengeData = [
         image: "/Images/Day11.png",
         gitrepo: "https://github.com/ad1tyayadav/30-days-javascript-challenge/tree/main"
     },
-    // {
-    //     id: 12,
-    //     day: 12,
-    //     topic: "Local Storage",
-    //     image: "https://plus.unsplash.com/premium_photo-1677524130841-68dba83f72d1?q=80&w=1917&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-    // },
+    {
+        id: 12,
+        day: 12,
+        topic: "Error Handling",
+        image: "/Images/Day12.png"
+    },
     // {
     //     id: 13,
     //     day: 13,
