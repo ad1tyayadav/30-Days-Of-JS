@@ -72,23 +72,24 @@ export const challengeData = [
     {
         id: 11,
         day: 11,
-        topic: "Promises And Async:Await",
+        topic: "Promises and Async:Await",
         image: "/Images/Day11.png",
-        gitrepo: "https://github.com/ad1tyayadav/30-days-javascript-challenge/tree/main"
+        gitrepo: "https://github.com/ad1tyayadav/30-days-javascript-challenge/tree/main/11%20-%20Promises%20and%20Async%20Await"
     },
     {
         id: 12,
         day: 12,
         topic: "Error Handling",
         image: "/Images/Day12.png",
-         gitrepo: "https://github.com/ad1tyayadav/30-days-javascript-challenge/tree/main"
+        gitrepo: "https://github.com/ad1tyayadav/30-days-javascript-challenge/tree/main"
     },
-    // {
-    //     id: 13,
-    //     day: 13,
-    //     topic: "Session Storage",
-    //     image: "https://images.unsplash.com/photo-1558529348-1651b1d4fa8e?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-    // },
+    {
+        id: 13,
+        day: 13,
+        topic: "Modules",
+        image: "/Images/Day12.png",
+        gitrepo: "https://github.com/ad1tyayadav/30-days-javascript-challenge/tree/main"
+    },
     // {
     //     id: 14,
     //     day: 14,
