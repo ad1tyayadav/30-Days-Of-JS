@@ -81,13 +81,14 @@ export const challengeData = [
         day: 12,
         topic: "Error Handling",
         image: "/Images/Day12.png",
-        gitrepo: "https://github.com/ad1tyayadav/30-days-javascript-challenge/tree/main"
+        gitrepo: "https://github.com/ad1tyayadav/30-days-javascript-challenge/tree/main/12%20-%20Error%20Handling"
     },
     {
         id: 13,
         day: 13,
         topic: "Modules",
         image: "/Images/Day13.png",
+<<<<<<< HEAD
         gitrepo: "https://github.com/ad1tyayadav/30-days-javascript-challenge/tree/main"
     },
     {
@@ -95,6 +96,8 @@ export const challengeData = [
         day: 14,
         topic: "Classes",
         image: "/Images/Day14.png",
+=======
+>>>>>>> c21ac8026e414dbb82214f384c8b26d7f308365a
         gitrepo: "https://github.com/ad1tyayadav/30-days-javascript-challenge/tree/main"
     },
     // {
