@@ -87,15 +87,16 @@ export const challengeData = [
         id: 13,
         day: 13,
         topic: "Modules",
-        image: "/Images/Day12.png",
+        image: "/Images/Day13.png",
         gitrepo: "https://github.com/ad1tyayadav/30-days-javascript-challenge/tree/main"
     },
-    // {
-    //     id: 14,
-    //     day: 14,
-    //     topic: "Cookies",
-    //     image: "https://plus.unsplash.com/premium_photo-1682141632742-f0f8a0a87136?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-    // },
+    {
+        id: 14,
+        day: 14,
+        topic: "Classes",
+        image: "/Images/Day14.png",
+        gitrepo: "https://github.com/ad1tyayadav/30-days-javascript-challenge/tree/main"
+    },
     // {
     //     id: 15,
     //     day: 15,
