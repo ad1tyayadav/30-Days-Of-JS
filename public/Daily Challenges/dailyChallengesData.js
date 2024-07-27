@@ -88,7 +88,7 @@ export const challengeData = [
         day: 13,
         topic: "Modules",
         image: "/Images/Day13.png",
-        gitrepo: "https://github.com/ad1tyayadav/30-days-javascript-challenge/tree/main"
+        gitrepo: "https://github.com/ad1tyayadav/30-days-javascript-challenge/tree/main/13%20-%20Modules"
     },
     {
         id: 14,
