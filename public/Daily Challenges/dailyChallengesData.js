@@ -104,12 +104,13 @@ export const challengeData = [
         image: "/Images/Day15.png",
         gitrepo: "https://github.com/ad1tyayadav/30-days-javascript-challenge/tree/main"
     },
-    // {
-    //     id: 16,
-    //     day: 16,
-    //     topic: "Error Handling",
-    //     image: "https://images.unsplash.com/photo-1571202661633-3307f5045cf5?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-    // },
+    {
+        id: 16,
+        day: 16,
+        topic: "Recursion",
+        image: "/Images/Day16.png",
+        gitrepo: "https://github.com/ad1tyayadav/30-days-javascript-challenge/tree/main"
+    },
     // {
     //     id: 17,
     //     day: 17,
