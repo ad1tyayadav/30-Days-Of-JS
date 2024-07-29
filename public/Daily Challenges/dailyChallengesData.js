@@ -115,7 +115,7 @@ export const challengeData = [
         id: 17,
         day: 17,
         topic: "Data Structures",
-        image: "/Images/Day16.png",
+        image: "/Images/Day17.png",
         gitrepo: "https://github.com/ad1tyayadav/30-days-javascript-challenge/tree/main"
     }
     // {
