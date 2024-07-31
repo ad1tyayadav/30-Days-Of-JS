@@ -102,7 +102,7 @@ export const challengeData = [
         day: 15,
         topic: "Closures",
         image: "/Images/Day15.png",
-        gitrepo: "https://github.com/ad1tyayadav/30-days-javascript-challenge/tree/main"
+        gitrepo: "https://github.com/ad1tyayadav/30-days-javascript-challenge/tree/main/15%20-%20Closures"
     },
     {
         id: 16,
@@ -128,7 +128,8 @@ export const challengeData = [
         id: 19,
         day: 19,
         topic: "Regular Expressions",
-        image: "/Images/Day19.png"
+        image: "/Images/Day19.png",
+        gitrepo: "https://github.com/ad1tyayadav/30-days-javascript-challenge/tree/main"
     },
     // {
     //     id: 20,
