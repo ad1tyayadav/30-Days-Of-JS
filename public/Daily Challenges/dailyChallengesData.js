@@ -131,12 +131,13 @@ export const challengeData = [
         image: "/Images/Day19.png",
         gitrepo: "https://github.com/ad1tyayadav/30-days-javascript-challenge/tree/main"
     },
-    // {
-    //     id: 20,
-    //     day: 20,
-    //     topic: "Modules and Imports",
-    //     image: "https://images.unsplash.com/photo-1560459094-5f0a6e816897?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-    // },
+    {
+        id: 20,
+        day: 20,
+        topic: "LocalStorage and SessionStorage",
+        image: "/Images/Day20.png",
+        gitrepo: "https://github.com/ad1tyayadav/30-days-javascript-challenge/tree/main"
+    },
     // {
     //     id: 21,
     //     day: 21,
