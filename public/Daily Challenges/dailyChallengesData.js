@@ -141,7 +141,7 @@ export const challengeData = [
     {
         id: 21,
         day: 21,
-        topic: "Web APIs",
+        topic: "LeetCode Easy",
         image: "/Images/Day21.png",
         gitrepo: "https://github.com/ad1tyayadav/30-days-javascript-challenge/tree/main"
     },
