@@ -152,12 +152,13 @@ export const challengeData = [
         image: "/Images/Day22.png",
         gitrepo: "https://github.com/ad1tyayadav/30-days-javascript-challenge/tree/main"
     },
-    // {
-    //     id: 23,
-    //     day: 23,
-    //     topic: "Form Validation",
-    //     image: "https://images.unsplash.com/photo-1587691353983-c61a4b4c7b18?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-    // },
+    {
+        id: 23,
+        day: 23,
+        topic: "LeetCode Hard",
+        image: "/Images/Day23.png",
+        gitrepo: "https://github.com/ad1tyayadav/30-days-javascript-challenge/tree/main"
+    },
     // {
     //     id: 24,
     //     day: 24,
