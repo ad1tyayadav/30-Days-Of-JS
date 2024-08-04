@@ -109,7 +109,7 @@ export const challengeData = [
         day: 16,
         topic: "Recursion",
         image: "/Images/Day16.png",
-        gitrepo: "https://github.com/ad1tyayadav/30-days-javascript-challenge/tree/main"
+        gitrepo: "https://github.com/ad1tyayadav/30-days-javascript-challenge/tree/main/16%20-%20Recursion"
     },
     {
         id: 17,
