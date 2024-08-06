@@ -169,8 +169,8 @@ export const challengeData = [
     {
         id: 25,
         day: 25,
-        topic: "Animations with CSS",
-        image: "/Images/Day24.png",
+        topic: "Project 2 - Movie Search App",
+        image: "/Images/Day25.png",
         gitrepo: "https://github.com/ad1tyayadav/30-days-javascript-challenge/tree/main"
     },
     // {
