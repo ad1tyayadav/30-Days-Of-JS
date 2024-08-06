@@ -166,12 +166,13 @@ export const challengeData = [
         image: "/Images/Day24.png",
         gitrepo: "https://github.com/ad1tyayadav/30-days-javascript-challenge/tree/main"
     },
-    // {
-    //     id: 25,
-    //     day: 25,
-    //     topic: "Animations with CSS",
-    //     image: "https://images.unsplash.com/photo-1521486742062-64999e25bda0?q=80&w=1917&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-    // },
+    {
+        id: 25,
+        day: 25,
+        topic: "Animations with CSS",
+        image: "/Images/Day24.png",
+        gitrepo: "https://github.com/ad1tyayadav/30-days-javascript-challenge/tree/main"
+    },
     // {
     //     id: 26,
     //     day: 26,
