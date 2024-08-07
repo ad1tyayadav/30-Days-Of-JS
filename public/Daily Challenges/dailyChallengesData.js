@@ -164,7 +164,7 @@ export const challengeData = [
         day: 24,
         topic: "Project 1 - Weather App",
         image: "/Images/Day24.png",
-        gitrepo: "https://github.com/ad1tyayadav/30-days-javascript-challenge/tree/main"
+        gitrepo: "https://github.com/ad1tyayadav/30-days-javascript-challenge/tree/main/24%20-%20Project%201%20-Weather%20App"
     },
     {
         id: 25,
