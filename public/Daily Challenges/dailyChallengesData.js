@@ -173,12 +173,13 @@ export const challengeData = [
         image: "/Images/Day25.png",
         gitrepo: "https://github.com/ad1tyayadav/30-days-javascript-challenge/tree/main"
     },
-    // {
-    //     id: 26,
-    //     day: 26,
-    //     topic: "Animations with JavaScript",
-    //     image: "https://images.unsplash.com/photo-1593031140884-d1b11c005f41?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-    // },
+    {
+        id: 26,
+        day: 26,
+        topic: "Project 3 - Chat Application",
+        image: "/Images/Day26.png",
+        gitrepo: "https://github.com/ad1tyayadav/30-days-javascript-challenge/tree/main"
+    },
     // {
     //     id: 27,
     //     day: 27,
