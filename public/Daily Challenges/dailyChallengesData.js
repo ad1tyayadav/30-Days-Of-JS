@@ -184,7 +184,7 @@ export const challengeData = [
         id: 27,
         day: 27,
         topic: "Project 4 - Task Management App",
-        image: "/Images/Day26.png",
+        image: "/Images/Day27.png",
         gitrepo: "https://github.com/ad1tyayadav/30-days-javascript-challenge/tree/main"
     },
     // {
