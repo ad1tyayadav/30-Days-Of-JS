@@ -180,12 +180,13 @@ export const challengeData = [
         image: "/Images/Day26.png",
         gitrepo: "https://github.com/ad1tyayadav/30-days-javascript-challenge/tree/main"
     },
-    // {
-    //     id: 27,
-    //     day: 27,
-    //     topic: "Canvas API",
-    //     image: "https://images.unsplash.com/photo-1552168186-e50f489d06ff?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-    // },
+    {
+        id: 27,
+        day: 27,
+        topic: "Project 4 - Task Management App",
+        image: "/Images/Day26.png",
+        gitrepo: "https://github.com/ad1tyayadav/30-days-javascript-challenge/tree/main"
+    },
     // {
     //     id: 28,
     //     day: 28,
