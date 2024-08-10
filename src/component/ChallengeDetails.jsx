@@ -12,7 +12,7 @@ const ChallengeDetails = () => {
     return (
         <div className="container mx-auto px-8 flex flex-col w-[100%] items-center py-8">
             <p className="text-xl font-bold">Day - {challenge.day}</p>
-            <h1 className="text-3xl font-bold mb-8">Topic - {challenge.topic}</h1>
+            <h1 className="text-3xl font-bold mb-8">Topic : {challenge.topic}</h1>
             <img src={challenge.image} alt={challenge.topic} className="w-full object-cover mb-4 mt-3" />
             <Link to={challenge.gitrepo}>
                 <Button>Check Solution</Button>
