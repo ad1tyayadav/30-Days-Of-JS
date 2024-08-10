@@ -187,12 +187,13 @@ export const challengeData = [
         image: "/Images/Day27.png",
         gitrepo: "https://github.com/ad1tyayadav/30-days-javascript-challenge/tree/main"
     },
-    // {
-    //     id: 28,
-    //     day: 28,
-    //     topic: "Web Storage API",
-    //     image: "https://images.unsplash.com/photo-1600742910650-2e6b96d285a3?q=80&w=1917&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-    // },
+    {
+        id: 28,
+        day: 28,
+        topic: "Project 5 - E-commerce Website",
+        image: "/Images/Day28.png",
+        gitrepo: "https://github.com/ad1tyayadav/30-days-javascript-challenge/tree/main"
+    },
     // {
     //     id: 29,
     //     day: 29,
