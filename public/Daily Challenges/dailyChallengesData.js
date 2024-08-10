@@ -194,12 +194,13 @@ export const challengeData = [
         image: "/Images/Day28.png",
         gitrepo: "https://github.com/ad1tyayadav/30-days-javascript-challenge/tree/main"
     },
-    // {
-    //     id: 29,
-    //     day: 29,
-    //     topic: "Service Workers",
-    //     image: "https://images.unsplash.com/photo-1603490167472-53b2a54fda12?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-    // },
+    {
+        id: 29,
+        day: 29,
+        topic: "Project 6 - Social Media Dashboard",
+        image: "/Images/Day29.png",
+        gitrepo: "https://github.com/ad1tyayadav/30-days-javascript-challenge/tree/main"
+    },
     // {
     //     id: 30,
     //     day: 30,
