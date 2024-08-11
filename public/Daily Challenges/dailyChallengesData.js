@@ -201,10 +201,11 @@ export const challengeData = [
         image: "/Images/Day29.png",
         gitrepo: "https://github.com/ad1tyayadav/30-days-javascript-challenge/tree/main"
     },
-    // {
-    //     id: 30,
-    //     day: 30,
-    //     topic: "Final Project",
-    //     image: "https://images.unsplash.com/photo-1570368723192-04b3449de8fc?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-    // }
+    {
+        id: 30,
+        day: 30,
+        topic: "Final - Social Media Dashboard With Full Features",
+        image: "/Images/Day29.png",
+        gitrepo: "https://github.com/ad1tyayadav/30-days-javascript-challenge/tree/main"
+    }
 ];
