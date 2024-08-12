@@ -205,7 +205,7 @@ export const challengeData = [
         id: 30,
         day: 30,
         topic: "Final - Social Media Dashboard With Full Features",
-        image: "/Images/Day29.png",
+        image: "/Images/Day30.png",
         gitrepo: "https://github.com/ad1tyayadav/30-days-javascript-challenge/tree/main"
     }
 ];
